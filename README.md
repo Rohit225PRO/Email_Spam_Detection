@@ -76,5 +76,3 @@ If you’re a mentor, reviewer, or fellow intern, I hope you find this work insp
 ## 🤝 Contact
 
 📧 **Email:** rohit.kumar813044@gmail.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile]  
-📚 **Portfolio:** [Link to your portfolio, if any]  
